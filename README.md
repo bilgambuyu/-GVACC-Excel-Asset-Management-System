@@ -27,7 +27,7 @@ This system was developed to solve a critical business problem: **tracking hardw
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 - **Reduced late-repair incidents by 20%** through automated SLA visibility
 - **Identified $1.2M in annual procurement spend** across 4 global regions
@@ -36,7 +36,7 @@ This system was developed to solve a critical business problem: **tracking hardw
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | Component | Technology Used |
 | :--- | :--- |
@@ -49,4 +49,4 @@ This system was developed to solve a critical business problem: **tracking hardw
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
