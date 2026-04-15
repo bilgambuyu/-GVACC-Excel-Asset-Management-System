@@ -50,4 +50,4 @@ This system was developed to solve a critical business problem: **tracking hardw
 ---
 
 ## Repository Contents
-![Alt text of the image](https://github.com/bilgambuyu/-GVACC-Excel-Asset-Management-System/screenshot.gif)
+![Alt text of the image](https://github.com/bilgambuyu/-GVACC-Excel-Asset-Management-System/executive-dashboard.png)
