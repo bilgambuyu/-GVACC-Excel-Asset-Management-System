@@ -6,7 +6,9 @@
 
 A comprehensive **Vendor & Asset Management System** built entirely in Microsoft Excel, designed to track 500+ global hardware contracts with automated SLA monitoring and executive-level visualization.
 
-![Dashboard Overview](executive-dashboard.png)
+## Demo
+
+![image alt](https://github.com/bilgambuyu/-GVACC-Excel-Asset-Management-System/blob/20923bfde9bda77355f09d7f53a2ee6132b50cb8/screenshot.gif)
 
 ---
 
@@ -46,9 +48,3 @@ This system was developed to solve a critical business problem: **tracking hardw
 | Formulas | VLOOKUP, COUNTIFS, NETWORKDAYS, IFERROR |
 | Visualization | Line Charts, Pie Charts, Bar Charts, Slicers |
 | Data Validation | Dropdown Lists, Conditional Formatting |
-
----
-
-## Demo
-
-![image alt](https://github.com/bilgambuyu/-GVACC-Excel-Asset-Management-System/blob/20923bfde9bda77355f09d7f53a2ee6132b50cb8/screenshot.gif)
