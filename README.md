@@ -6,7 +6,7 @@
 
 A comprehensive **Vendor & Asset Management System** built entirely in Microsoft Excel, designed to track 500+ global hardware contracts with automated SLA monitoring and executive-level visualization.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](executive-dashboard.png)
 
 ---
 
